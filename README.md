@@ -1,11 +1,11 @@
 # VaR-and-Expected-Shortfall
 Value at risk (VaR) and expected shortfall (ES) are attempts to provide a single number summarizing the total risk in a portfolio of financial assets.
 
-In the utilities.py you can find two way to measure the risk of a portfolio with two different approach:
+In the utilities.py you can find two ways to measure the risk of a portfolio with two different approaches:
  - Historical Simulation approach;
- - Model-Building apporach (Linear Model).
+ - Model-Building approach (Linear Model).
 
-In addition, in the historical simulation approach it has. been considered appropriate to give more weight to recent scenarios.
+In addition, in the historical simulation approach, it has been considered appropriate to give more weight to recent scenarios.
 
 # Donate
 Free to Donate!
